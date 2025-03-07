@@ -1,2 +1,2 @@
-# Analytical_python_scripts_learn01
-Learn python from basics.
+# Import libraries
+import pandas as pd
